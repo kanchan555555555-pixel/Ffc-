@@ -1,0 +1,6 @@
+{
+  "name": "TV Beam",
+  "description": "High-speed offline file and video transfer from mobile to TV storage over local Wi-Fi hotspot without needing a TV app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

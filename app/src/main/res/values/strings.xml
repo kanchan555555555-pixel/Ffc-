@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TV Beam</string>
+    <string name="notif_channel_name">TV Beam Transfer Server</string>
+    <string name="notif_channel_desc">Keeps high-speed hotspot transfer to TV active in the background</string>
+    <string name="notif_running_title">TV Beam Active</string>
+    <string name="notif_stop_action">Stop</string>
+</resources>
